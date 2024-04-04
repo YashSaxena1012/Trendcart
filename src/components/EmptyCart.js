@@ -1,6 +1,5 @@
 import React from 'react';
 import { FiShoppingCart } from 'react-icons/fi';
-import { AiOutlinePlus } from 'react-icons/ai';
 
 const EmptyCartCard = () => {
   return (

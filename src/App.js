@@ -20,7 +20,7 @@ const App = () => {
       <Sidebar/>
       <Footer/>
     </Router>
-  </div>;
+  </div>
 };
 
 export default App;
